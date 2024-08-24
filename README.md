@@ -1,3 +1,3 @@
-# Cdharacter Counter
+# Character Counter
 
 a real-time character counter
